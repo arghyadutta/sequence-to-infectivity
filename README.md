@@ -1,4 +1,4 @@
-Okay, it's a small clickbait because the actual code is on [GitLab](https://gitlab.com/arghyadutta/seq-to-infect). 😀 I had to put it on GitLab since we needed more stroage space for storing the full outputs from Monte Carlo runs. Just putting the link here to have all of my public codebases in one place. 
+Okay, it's a small clickbait because the actual code is on [GitLab](https://gitlab.com/arghyadutta/seq-to-infect). 😀 We had to put it on GitLab since we needed more storage space for storing the complete outputs from several Monte Carlo runs. I'm just putting the link here to have all of my public codebases in one place.
 
 From the GitLab repo's readme: 
 
